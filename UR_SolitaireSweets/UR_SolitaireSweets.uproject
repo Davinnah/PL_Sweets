@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0858F4FA-41FC-4868-947C-54AC3B65F47C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UR_SolitaireSweets",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+C:\Users\dav1n\Documents\GitHub\PL_Sweets\UR_SolitaireSweets\Source\UR_SolitaireSweets\UR_SolitaireSweets.Build.cs
+C:\Users\dav1n\Documents\GitHub\PL_Sweets\UR_SolitaireSweets\Source\UR_SolitaireSweets.Target.cs
+C:\Users\dav1n\Documents\GitHub\PL_Sweets\UR_SolitaireSweets\Source\UR_SolitaireSweetsEditor.Target.cs
